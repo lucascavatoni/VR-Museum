@@ -1,29 +1,29 @@
 # VR-Museum
 
-## School Project : ISAE-SUPAERO VR Museum 
+[![Showcase Video](https://img.youtube.com/vi/9uBys3w2hmw/0.jpg)](https://www.youtube.com/watch?v=9uBys3w2hmw)
 
 First year school project at ISAE-SUPAERO, the "PIC" (Project Innovation Creativity)
 The goal was to bring back to life students' rocket projects, especially an ancient one, ARSENE :  a communication satellite built by students and launched to space (the red satellite)
 
 So we made a museum that you can visit in virtual reality so that you can interact virtually with the satellites, in full 3D.
 
-School Buildings : Google Sketchup
-Other Models : Blender
-Engine : Unity
-VR : OpenVR Plugin
+- School Buildings : Google Sketchup
+- Other Models : Blender
+- Engine : Unity
+- VR : OpenVR Plugin
 
 Made by :
 
-Boris Jost : 
+**Boris Jost** : 
 3D Building models & textures & interiors
 
-Geoffroy Mordelet : 
+**Geoffroy Mordelet** : 
 3D models importations & conversions & satellite signs and stands 
 
-Justine Veirier : 
+**Justine Veirier** : 
 3D model construction of Arsene Satellite (the red one)
 
-Lucas Cavatoni : 
+**Lucas Cavatoni** : 
 VR implementation in Unity & video 
 
 
