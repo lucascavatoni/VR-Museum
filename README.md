@@ -9,7 +9,7 @@ So we made a museum that you can visit in virtual reality so that you can intera
 
 - School Buildings : Google Sketchup
 - Other Models : Blender
-- Engine : Unity
+- Engine : Unity (C# scripts)
 - VR : OpenVR Plugin
 
 Made by :
