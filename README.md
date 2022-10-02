@@ -1,6 +1,6 @@
 # VR-Museum
 
-![](School_Project__ISAESUPAERO_VR_Museum.gif)
+![](images/School_Project__ISAESUPAERO_VR_Museum.gif)
 
 [![Showcase Video](https://img.youtube.com/vi/9uBys3w2hmw/0.jpg)](https://www.youtube.com/watch?v=9uBys3w2hmw)
 
