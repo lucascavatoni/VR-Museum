@@ -14,16 +14,16 @@ So we made a museum that you can visit in virtual reality so that you can intera
 
 Made by :
 
-**Boris Jost** : 
+- **Boris Jost** : 
 3D Building models & textures & interiors
 
-**Geoffroy Mordelet** : 
+- **Geoffroy Mordelet** : 
 3D models importations & conversions & satellite signs and stands 
 
-**Justine Veirier** : 
+- **Justine Veirier** : 
 3D model construction of Arsene Satellite (the red one)
 
-**Lucas Cavatoni** : 
+- **Lucas Cavatoni (me)** : 
 VR implementation in Unity & video 
 
 
