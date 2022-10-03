@@ -28,7 +28,7 @@ Made by :
 3D model construction of Arsene Satellite (the red one)
 
 - **Lucas Cavatoni (me)** : 
-VR implementation in Unity & video 
+VR implementation in Unity & video (DaVinci Resolve)
 
 
 
